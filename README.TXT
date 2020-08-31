@@ -1,6 +1,5 @@
 Smurf Combat
 Copyright (C) 1993, 1994, 1995, 2019 Laurence Maar
-laurencemaar@gmail.com
 https://www.facebook.com/laurencemaar/
 https://www.linkedin.com/in/laurencemaar/
 https://github.com/laurencemaar/
@@ -110,7 +109,6 @@ Place Drop File		Start-up Directory
 
 Smurf Combat
 Copyright (C) 1993, 1994, 1995, 2019 Laurence Maar
-laurencemaar@gmail.com
 https://www.facebook.com/laurencemaar/
 https://www.linkedin.com/in/laurencemaar/
 https://github.com/laurencemaar/
